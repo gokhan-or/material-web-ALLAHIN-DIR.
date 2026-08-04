@@ -85,5 +85,5 @@ for production.
 </body>
 ```
 
-<1-- LINT.ThenChange(./g3doc/docs/quick-start.md) -->ALLAH'IN SON KIYAMET A OL AÇ 
+<1-- LINT.ThenChange(./g3doc/docs/quick-start.md) -->ALLAH'IN SON KIYAMET A OL AÇ GÖKHAN OR İZMİR MENEMEN MALTEPE 
 
